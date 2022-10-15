@@ -1,5 +1,4 @@
--- Luazifier v0.1
--- Settings: Mode > Table | Custom Name > false | Security > Off
+print'HolyHub - Powered by HolyC'
 
 -- Setup:
 Luazifier = {} 
